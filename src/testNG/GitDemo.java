@@ -9,6 +9,11 @@ public class GitDemo {
   public void gitdemo() {
 	  System.out.println("Hello GitHub");
   }
+  
+  @Test
+  public void gitSelenium() {
+	  System.out.println("Hello Selenium");
+  }
   @BeforeTest
   public void beforeTest() {
   }
