@@ -12,7 +12,7 @@ public class GitDemo {
   
   @Test
   public void gitSelenium() {
-	  System.out.println("Hello Selenium");
+	  System.out.println("Hello Seleniumlearn");
   }
   @BeforeTest
   public void beforeTest() {
