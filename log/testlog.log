@@ -1,0 +1,11 @@
+2022-06-29 16:29:34,140 – Techlearn.in -INFO – Chrome Browser Launch
+2022-06-29 16:29:34,299 – Techlearn.in -INFO – Browser Maximize
+2022-06-29 16:29:39,569 – Techlearn.in -INFO – Lauch google website url
+2022-06-29 16:29:39,793 – Techlearn.in -INFO – Type the Hello World in Google Search
+2022-06-29 16:39:43,831 – Google -INFO – Chrome Browser Launch
+2022-06-29 16:39:43,986 – Google -INFO – Browser Maximize
+2022-06-29 16:39:46,962 – Google -INFO – Lauch google website url
+2022-06-29 16:39:47,148 – Google -INFO – Type the Hello World in Google Search
+2022-06-29 16:39:51,213 – Google -INFO – Enter Button Press in Keyboard
+2022-06-29 16:39:54,228 – Google -INFO – Wait for 3 Seconds
+2022-06-29 16:39:54,642 – Google -INFO – Browser close
